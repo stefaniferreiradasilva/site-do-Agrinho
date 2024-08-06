@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #50C878; /* Verde Esmeralda */
+    color: #fff;
+}
+
+header {
+    background-color: #00A86B; /* Verde Jade */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.campo h2, .cidade h2 {
+    font-size: 1.5em;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 10px;
+}
+
+p {
+    line-height: 1.6;
+}
